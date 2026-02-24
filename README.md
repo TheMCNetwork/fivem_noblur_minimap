@@ -21,3 +21,7 @@ The resource streams a custom texture dictionary (`squaremap.ytd`) that replaces
 ## License
 
 Feel free to use and modify this resource. Credit is appreciated but not required.
+
+## Special Thanks
+
+Special Thanks to microoowave for emotional support aswell as sexual support!
