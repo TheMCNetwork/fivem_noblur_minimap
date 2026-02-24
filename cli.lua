@@ -13,6 +13,5 @@ AddEventHandler("onResourceStop", function(resourceName) -- remove the replaced 
     if resourceName == GetCurrentResourceName() then
         RemoveReplaceTexture("platform:/textures/graphics", "radarmasksm")
         RemoveReplaceTexture("platform:/textures/graphics", "radarmasklg")
-        SetMinimapComponent(15, false, 0)
     end
 end)
